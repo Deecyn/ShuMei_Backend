@@ -5,3 +5,8 @@
 ![查看链接文档](https://github.com/Deecyn/ShuMei_Backend/raw/master/images/links_file_example_1.png)
 
 **有什么建议、问题的请在项目中提交 issue；如有需要，可以贴出代码、截图或@作者。** 欢迎大家多多交流~
+
+**关于 issue :**
+
+- 标题 title：文档发布日期（如 10-10）+ 简单的描述；
+- 指定适当的 lable；
